@@ -1,0 +1,23 @@
+h1{
+    font-size: 20px; font-style: italic; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:aqua
+
+}
+
+h2{
+    font-size: 20px; font-style: italic; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:black
+
+}
+h3{
+    font-size: 20px; font-style: italic; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:blue
+}
+h4{
+    font-size: 20px; font-style: italic; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:rgb(255, 0, 200)
+}
+
+h5{
+    font-size: 20px; font-style: italic; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:rgb(255, 0, 21)
+}
+
+h6{
+    font-size: 20px; font-style: italic; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:rgb(0, 255, 34)
+}
